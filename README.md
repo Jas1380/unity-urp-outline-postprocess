@@ -1,5 +1,7 @@
 # Unity URP Outline Post-Process Shader
 
+> Sobel-based edge detection post-process shader for Unity URP with depth and normal detection
+
 A neat little post-process shader for URP that slaps some outlines on your scene. Basically grabs depth and normal info to figure out where edges are, then draws lines around 'em.
 
 ![Example](example.png)
