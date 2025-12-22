@@ -6,7 +6,7 @@ A neat little post-process shader for URP that slaps some outlines on your scene
 
 ## What's this thing do?
 
-So like, the shader peeks at your scene's depth buffer and normals to spot where stuff overlaps or angles change. Then it goes ahead and throws an outline on those edges. Uses multi-sampling so it doesn't look janky.
+So like, the shader peeks at your scene's depth buffer and normals to spot where stuff overlaps or angles change. Then it goes ahead and throws an outline on those edges. Uses Sobel edge detection for smooth, clean edge detection with anti-aliasing.
 
 ## Getting it working
 
@@ -17,9 +17,9 @@ So like, the shader peeks at your scene's depth buffer and normals to spot where
    - Toss that feature into your URP Renderer asset
 3. Tweak these knobs till it looks good:
    - **Outline Color**: What color you want (alpha controls how strong it blends)
-   - **Depth Threshold**: How picky it is about depth differences (lower = catches more edges)
-   - **Normal Threshold**: How picky about surface angles
-   - **Outline Thickness**: How thicc you want those lines
+   - **Depth Threshold**: How picky it is about depth differences (scales with distance, lower = catches more edges)
+   - **Normal Threshold**: How picky about surface angles (lower = more sensitive)
+   - **Outline Thickness**: How thicc you want those lines (affects sampling radius)
 
 ## Example setup
 
